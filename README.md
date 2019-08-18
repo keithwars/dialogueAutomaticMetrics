@@ -1,7 +1,6 @@
 # Dialgue Automatic Metrics
 
 An Investigation into Automatic Metrics for A.I. Dialogue Systems. *- Master Thesis 2018/19*
-This is a project being created in name of 'Integrated Project Mobile Development', a credit given at AP University College, Antwerp, Belgium.
 
 ## Synopsis
 
